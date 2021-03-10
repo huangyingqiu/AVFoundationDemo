@@ -16,6 +16,7 @@
 		04543A1525F6455C0043BDD2 /* VideoFilterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04543A1425F6455C0043BDD2 /* VideoFilterTests.swift */; };
 		04543A2025F6455C0043BDD2 /* VideoFilterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04543A1F25F6455C0043BDD2 /* VideoFilterUITests.swift */; };
 		04543A4025F646620043BDD2 /* VideoCompositing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04543A3F25F646620043BDD2 /* VideoCompositing.swift */; };
+		E3351E2025F755A300F87089 /* VideoCompositionInstruction.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3351E1F25F755A300F87089 /* VideoCompositionInstruction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		04543A1F25F6455C0043BDD2 /* VideoFilterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoFilterUITests.swift; sourceTree = "<group>"; };
 		04543A2125F6455C0043BDD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04543A3F25F646620043BDD2 /* VideoCompositing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCompositing.swift; sourceTree = "<group>"; };
+		E3351E1F25F755A300F87089 /* VideoCompositionInstruction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCompositionInstruction.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				04543A0825F6455C0043BDD2 /* LaunchScreen.storyboard */,
 				04543A0B25F6455C0043BDD2 /* Info.plist */,
 				04543A3F25F646620043BDD2 /* VideoCompositing.swift */,
+				E3351E1F25F755A300F87089 /* VideoCompositionInstruction.swift */,
 			);
 			path = VideoFilter;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				04543A0225F6455A0043BDD2 /* ViewController.swift in Sources */,
 				045439FE25F6455A0043BDD2 /* AppDelegate.swift in Sources */,
 				04543A0025F6455A0043BDD2 /* SceneDelegate.swift in Sources */,
+				E3351E2025F755A300F87089 /* VideoCompositionInstruction.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
